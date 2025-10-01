@@ -1,0 +1,19 @@
+{
+  "name": "livekit-genesys-bridge",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@discordjs/opus": "^0.10.0",
+    "dotenv": "^17.2.3",
+    "livekit-server-sdk": "^2.13.3",
+    "ws": "^8.18.3"
+  }
+}
